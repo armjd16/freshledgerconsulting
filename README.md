@@ -1,3 +1,4 @@
+[index.html](https://github.com/user-attachments/files/29655509/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -302,18 +303,18 @@
           <span>Status</span>
         </div>
         <div class="ledger-row before">
-          <span class="label">Outstanding balance, 3 accounts</span>
+          <span class="label">Outstanding balance</span>
           <span class="amt">₱ 248,000</span>
         </div>
         <div class="ledger-row">
-          <span class="label">Monthly demand before negotiation</span>
-          <span class="amt">₱ 21,500</span>
+          <span class="label">Agency's initial offer, 20% discount</span>
+          <span class="amt">₱ 198,400</span>
         </div>
         <div class="ledger-row after">
-          <span class="label">Restructured monthly commitment</span>
-          <span class="amt">₱ 6,800</span>
+          <span class="label">Negotiated one-time settlement, 60% off</span>
+          <span class="amt">₱ 74,400</span>
         </div>
-        <div class="stamp">✓ Terms Restructured</div>
+        <div class="stamp">✓ Settled, One-Time Payment</div>
         <p class="ledger-foot">Illustrative example. Every case and creditor response is different — see disclosure below.</p>
       </div>
     </div>
